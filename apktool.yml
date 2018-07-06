@@ -1,0 +1,192 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Ludo Neo-Classic.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- mp3
+- wav
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png
+- res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+- res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png
+- res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+- res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_light_focused.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal.9.png
+- res/drawable-tvdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+- res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png
+- res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+- res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png
+- res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+- res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '10'
+  targetSdkVersion: '23'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  fabric/com.crashlytics.sdk.android.answers.properties: '8'
+  fabric/com.crashlytics.sdk.android.beta.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics-core.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics-ndk.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics.properties: '8'
+  fabric/io.fabric.sdk.android.fabric.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '10'
+  versionName: '1.9'

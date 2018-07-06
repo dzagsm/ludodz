@@ -1,0 +1,56 @@
+.class final Lcom/sdkbox/services/jni/RequestManager$1;
+.super Ljava/lang/Object;
+.source "RequestManager.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/sdkbox/services/jni/RequestManager;->callRemove(J)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x8
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic val$ptr_nativeXHR:J
+
+
+# direct methods
+.method constructor <init>(J)V
+    .locals 1
+
+    .prologue
+    .line 19
+    iput-wide p1, p0, Lcom/sdkbox/services/jni/RequestManager$1;->val$ptr_nativeXHR:J
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 4
+
+    .prologue
+    .line 24
+    const-string v0, "XHRRemove"
+
+    iget-wide v2, p0, Lcom/sdkbox/services/jni/RequestManager$1;->val$ptr_nativeXHR:J
+
+    invoke-static {v2, v3}, Ljava/lang/Long;->valueOf(J)Ljava/lang/Long;
+
+    move-result-object v1
+
+    invoke-static {v0, v1}, Lcom/sdkbox/jnibridge/NativeBridge;->emit(Ljava/lang/String;Ljava/lang/Object;)V
+
+    .line 26
+    return-void
+.end method
